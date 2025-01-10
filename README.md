@@ -24,7 +24,7 @@ How to find Bot Token
 Click on bot U had
 1. Go to the O2Auth
 2. Reset Secret key and Save the key on your file
-3. Then Change Token on your token
+3. Then Change Token With your token 
 
 2. MongoURL
    1. Create Account MondoDB on www.mongodb.com
